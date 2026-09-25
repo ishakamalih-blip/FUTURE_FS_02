@@ -259,3 +259,10 @@ Thanks to Future Interns for providing the opportunity to work on a practical fu
 📜 License
 
 This project is developed for educational and internship purposes.
+## 📸 Screenshots
+
+### Lead Management Dashboard
+
+The Lead Management Dashboard provides an overview of total leads and allows users to search, add, edit, and delete lead records.
+
+![Lead Management Dashboard](screenshots/dashboard.png)
